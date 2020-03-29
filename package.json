@@ -1,6 +1,6 @@
 {
   "name": "chimpcase",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Format developer text into human readable text!",
   "main": "index.js",
   "scripts": {
