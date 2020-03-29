@@ -1,0 +1,21 @@
+{
+  "name": "chimpcase",
+  "version": "1.0.0",
+  "description": "Format developer text into human readable text!",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "Text",
+    "text",
+    "Format",
+    "format",
+    "Case",
+    "case",
+    "Chimp",
+    "chimp"
+  ],
+  "author": "Joe Pena",
+  "license": "ISC"
+}
